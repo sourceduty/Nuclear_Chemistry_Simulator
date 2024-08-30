@@ -11,6 +11,11 @@ The simulator is equipped to guide users through the intricate interplay of nucl
 Furthermore, the Nuclear Chemistry Simulator is a valuable tool for educational purposes, allowing users to engage with scientific principles in an interactive way. It facilitates a deeper understanding of the fundamental processes that govern nuclear reactions and the synthesis of new elements. This hands-on approach not only enhances learning but also inspires curiosity and further exploration in fields such as medicine, where isotopes play a crucial role, and energy, where understanding nuclear reactions is key to developing sustainable technologies.
 
 #
+### Isotopes and Elements
+
+As of August 2024, there are 118 known chemical elements, with each element having one or more isotopes. An isotope is a variant of an element that differs in neutron number but has the same number of protons. The total number of isotopes across all elements is approximately 3000, though this number fluctuates as new isotopes are discovered or synthesized. These isotopes include both stable and radioactive forms, with many elements having multiple isotopes that vary in their stability and applications, ranging from medical imaging to nuclear energy.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
