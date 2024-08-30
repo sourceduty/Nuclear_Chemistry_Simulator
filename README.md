@@ -23,6 +23,10 @@ Creating isotopic elements, particularly for research and advanced applications,
 In conjunction with particle accelerators and spectrometers, specialized reactors and isotope production facilities are also required. Research reactors, often operated at universities or national laboratories, provide a controlled environment for producing isotopes through neutron irradiation. These reactors are equipped with advanced safety systems to handle the high-energy reactions involved. Furthermore, isotope production requires stringent environmental controls, including radiation shielding and cooling systems, to protect both the equipment and personnel from the hazards associated with high-energy nuclear processes. Together, these components form a complex infrastructure that supports the creation and study of isotopic elements.
 
 #
+
+![Nuclear Reactor](https://github.com/user-attachments/assets/d2f0a8d9-6363-4fe0-b0bb-3c558204f8b4)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
