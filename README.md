@@ -35,7 +35,7 @@ In conjunction with particle accelerators and spectrometers, specialized reactor
 <br>
 [Computational Atomics](https://github.com/sourceduty/Computational_Atomics)
 <br>
-[Atomis Simulator](https://github.com/sourceduty/Atomic_Simulator)
+[Atomic Simulator](https://github.com/sourceduty/Atomic_Simulator)
 <br>
 [Isotope Engineer](https://github.com/sourceduty/Isotope_Engineer)
 
